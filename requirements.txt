@@ -1,0 +1,8 @@
+openai-agents==0.4.2
+eval_type_backport>=0.2.0
+openai>=1.0.0
+python-dotenv>=1.0.0
+requests>=2.28.0
+pydantic>=2.0.0,<2.11.0
+gradio>=4.44,<5
+huggingface_hub>=0.23.0,<1.0
